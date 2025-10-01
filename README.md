@@ -1,4 +1,5 @@
 **ML-Driven Fraud Detection for Staged Auto Accidents**
+
 **Project Overview**
 
 - This project focuses on detecting fraudulent staged auto accident claims using Machine Learning. The solution leverages behavioral segmentation, anomaly detection, and model interpretability to flag high-risk claims while reducing false positives.
